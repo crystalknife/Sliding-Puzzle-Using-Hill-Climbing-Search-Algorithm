@@ -93,6 +93,4 @@ This implementation is an excellent example of combining interactivity with basi
 
 The game is both **engaging** and **educational**, making it a great tool for learning about **heuristics**, **state-space exploration**, and **problem-solving techniques**.  
 
---- 
 
-Feel free to copy and paste this into your README file! Let me know if you'd like further customizations. 😊
